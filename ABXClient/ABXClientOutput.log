@@ -1,0 +1,18 @@
+Connected to server.
+Request for Stream All sent
+Server closed the connection.
+Connected to server.
+Request for missing packet sent for sequence number: 1
+Request for missing packet sent for sequence number: 2
+Request for missing packet sent for sequence number: 9
+Request for missing packet sent for sequence number: 10
+Request for missing packet sent for sequence number: 11
+JSON data written to file successfully.
+Connected to server.
+Request for Stream All sent
+Server closed the connection.
+Connected to server.
+Request for missing packet sent for sequence number: 3
+Request for missing packet sent for sequence number: 6
+Request for missing packet sent for sequence number: 12
+JSON data written to file successfully.

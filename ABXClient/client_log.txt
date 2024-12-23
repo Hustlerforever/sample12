@@ -1,0 +1,7 @@
+Connected to server.
+Request for Stream All sent.
+Server closed the connection.
+Connected to server.
+Request for missing packet sent for sequence number: 4
+Request for missing packet sent for sequence number: 8
+JSON data written to file successfully.
